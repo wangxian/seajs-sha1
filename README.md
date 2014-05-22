@@ -1,8 +1,8 @@
-# seajs-sha1
+# sha1
 
 ---
 
-[![spm version](http://spmjs.io/badge/seajs-sha1)](http://spmjs.io/package/seajs-sha1)
+[![spm version](http://spmjs.io/badge/sha1)](http://spmjs.io/package/sha1)
 
 An awesome spm package!
 
@@ -11,14 +11,14 @@ An awesome spm package!
 ## Install
 
 ```
-$ spm install seajs-sha1 --save
+$ spm install sha1 --save
 ```
 
 ## Usage
 
 ```js
-var sha1 = require('seajs-sha1');
-// use seajs-sha1
+var sha1 = require('sha1');
+// use sha1
 console.log( sha1('your string') )
 ```
 

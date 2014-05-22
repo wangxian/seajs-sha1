@@ -1,7 +1,7 @@
 var expect = require('expect');
 var sha1 = require('../sha1');
 
-describe('seajs-sha1', function() {
+describe('sha1', function() {
 
   it('normal usage', function() {
     var s = sha1("111111")

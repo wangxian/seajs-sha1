@@ -4,4 +4,4 @@
 
 ## 1.0.0
 
-`new` It is the first version of seajs-sha1.
+`new` It is the first version of sha1.

@@ -1,5 +1,5 @@
 {
-  "name": "seajs-sha1",
+  "name": "sha1",
   "version": "1.0.0",
   "description": "sha1 for seajs",
   "keywords": [],
@@ -13,7 +13,7 @@
     "url": "git://github.com/wangxian/seajs-sha1.git"
   },
   "bugs": {
-    "url": "git://github.com/wangxian/seajs-sha1.git/issues"
+    "url": "https://github.com/wangxian/seajs-sha1/issues"
   },
   "licenses": "MIT",
   "spm": {
